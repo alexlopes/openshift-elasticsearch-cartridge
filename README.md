@@ -1,3 +1,5 @@
+## Forked to update ElasticSearch to 5.2.2
+
 OpenShift ElasticSearch Cartridge
 =================================
 Downloadable ElasticSearch cartridge for OpenShift.
